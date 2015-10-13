@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="entries_order_preference">
+        <item>@string/pref_order_label_pop</item>
+        <item>@string/pref_order_label_rating</item>
+    </string-array>
+
+    <string-array name="entryvalues_order_preference">
+        <item>@string/pref_order_pop</item>
+        <item>@string/pref_order_rating</item>
+    </string-array>
+</resources>
