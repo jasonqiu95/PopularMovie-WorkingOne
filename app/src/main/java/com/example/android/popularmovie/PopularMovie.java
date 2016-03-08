@@ -22,7 +22,7 @@ public class PopularMovie extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_popular_movie, menu);
         return true;
     }
-
+    
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
