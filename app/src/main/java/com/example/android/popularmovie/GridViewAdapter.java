@@ -12,7 +12,7 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 
 /**
- * Created by Chen on 7/20/2015.
+ * Created by JasonQiu and Chris Ma on 7/20/2015.
  */
 public class GridViewAdapter extends ArrayAdapter {
     private Context context;
