@@ -50,7 +50,7 @@ public class PopularMovieFragment extends Fragment {
         FetchPopularMovie fpm = new FetchPopularMovie();
         fpm.execute(sortOrder);
     }
-
+    
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
